@@ -3,7 +3,7 @@ require_once 'bootstrap.php';
 ?>
 <nav class="nav">
     <div class="container-fluid">
-        <h1 class="text-center"> STOCK MAINTANANCE SYSTEM </h1>
+        <h1 class="text-center"> STOCK MANAGEMENT SYSTEM </h1>
     </div>
 </nav><hr>
 <div class="row">&nbsp;<br></div>
